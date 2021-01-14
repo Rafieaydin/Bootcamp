@@ -1,0 +1,6 @@
+to many -> belongsto 
+(on to many)
+to one -> to one 
+(one to one)
+belongstomany -> belongsto
+(many to many)
